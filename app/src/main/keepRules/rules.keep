@@ -10,3 +10,5 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+
+# https://www.figma.com/design/TJ8zZ5ETY68fPatL075IWU/ИМЭЧ?node-id=1-5&t=iskiMtY3wfyWiPfa-0
